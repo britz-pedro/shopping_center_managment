@@ -30,12 +30,6 @@ domain and is organized in stages that reflect the learning process.
 - **Etapa 4 – Array**  
   Practice with arrays to store and manage collections of objects.
 
-## How to Run
-1. Clone or download the repository
-2. Open the project in a Java IDE (IntelliJ, Eclipse, or VS Code)
-3. Compile the `.java` files
-4. Run the main class (`Principal`)
-
 ## Notes
 This project was developed for learning purposes and focuses on Java fundamentals
 and code organization.
